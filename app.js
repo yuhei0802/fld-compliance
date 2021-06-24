@@ -16,7 +16,7 @@ const quiz = [
     '代筆',
     'ナビタンの空打ち'
   ],
-  correct:'功刀雅也'
+  correct:'ナビタンの空打ち'
 },{
   question: '代筆をした際の罪は次のうちどれか？',
   answers: [
